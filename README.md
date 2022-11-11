@@ -99,7 +99,6 @@ Order to execute notebooks:
 
 -   1-[`GetAllAnimes.ipynb`](./GetAllAnimes.ipynb). Execution time: 30min to 1h (depends on your internet connection and `RANGE_LIMIT` value, default: `100000`)
 -   2-[`GetGenreThemeForAnimes.ipynb`](./GetGenreThemeForAnimes.ipynb). Execution time: 15min to 16h (depends on the number of animes collected in the previous notebook and your internet connection)
--   3-[`PrepareDataset.ipynb`](./PrepareDataset.ipynb) (optional). Execution time: 1min to 5min
 
 The others notebooks haven't dependencies to others notebooks.
 
