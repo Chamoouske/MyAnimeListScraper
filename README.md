@@ -1,16 +1,16 @@
-<div style="text-align: center;" class="title">
+<div align="center" class="title">
 
 # Scraper [MyAnimeList.net](https://myanimelist.net/)
 
 </div>
 
-<div style="text-align:justify;" class="details">
+<div align="justify" class="details">
 
 This project is a web scraper for [MyAnimeList](https://myanimelist.net/), a website with details of animes. This scrapper collects name, score, genres, themes, studio and other information about the animes.
 
 </div>
 
-<div style="text-align: center;" class="badges">
+<div align="center" class="badges">
 
 [![GitHub issues](https://img.shields.io/github/issues/Chamoouske/MyAnimeListScrapper?style=plastic)](https://github.com/Chamoouske/MyAnimeListScrapper/issues) [![GitHub forks](https://img.shields.io/github/forks/Chamoouske/MyAnimeListScrapper?style=plastic)](https://github.com/Chamoouske/MyAnimeListScrapper/network) [![GitHub stars](https://img.shields.io/github/stars/Chamoouske/MyAnimeListScrapper?style=plastic)](https://github.com/Chamoouske/MyAnimeListScrapper/stargazers) [![GitHub license](https://img.shields.io/github/license/Chamoouske/MyAnimeListScrapper?style=plastic)](https://github.com/Chamoouske/MyAnimeListScrapper/blob/main/LICENSE)
 
@@ -18,7 +18,7 @@ This project is a web scraper for [MyAnimeList](https://myanimelist.net/), a web
 
 ---
 
-<div style="text-align: center;" class="navigation-title">
+<div align="center" class="navigation-title">
 
 ## Navigation Menu
 
@@ -29,7 +29,6 @@ This project is a web scraper for [MyAnimeList](https://myanimelist.net/), a web
     -   [Navigation Menu](#navigation-menu)
     -   [Getting Started](#getting-started)
         -   [Prerequisites](#prerequisites)
-        -   [Installation](#installation)
     -   [Usage](#usage)
     -   [Built With](#built-with)
     -   [Contribution](#contribution)
@@ -39,12 +38,12 @@ This project is a web scraper for [MyAnimeList](https://myanimelist.net/), a web
 
 ---
 
-<div style="text-align: center;" class="installation-title">
+<div align="center" class="installation-title">
 
 ## Getting Started
 
 </div>
-<div style="text-align:justify;" class="installation">
+<div align="justify" class="installation">
 
 ### Prerequisites
 
@@ -87,12 +86,12 @@ Now you can open archives with Jupyter, if [Anaconda](https://www.anaconda.com/p
 
 ---
 
-<div style="text-align: center;" class="usage-title">
+<div align="center" class="usage-title">
 
 ## Usage
 
 </div>
-<div style="text-align: justify;" class="usage">
+<div align="justify" class="usage">
 
 Some notebooks just works with after executing the code in the previous notebooks.
 
@@ -108,12 +107,12 @@ The others notebooks haven't dependencies to others notebooks.
 
 ---
 
-<div style="text-align: center;" class="usage-title">
+<div align="center" class="usage-title">
 
 ## Built With
 
 </div>
-<div style="text-align:justify;" class="usage">
+<div align="justify" class="usage">
 
 -   [Python](https://www.python.org/)
 -   [Jupyter](https://jupyter.org/)
@@ -124,12 +123,12 @@ The others notebooks haven't dependencies to others notebooks.
 
 ---
 
-<div style="text-align: center;" class="contribution-title">
+<div align="center" class="contribution-title">
 
 ## Contribution
 
 </div>
-<div style="text-align:justify;" class="contribution">
+<div align="justify" class="contribution">
 
 If you want to contribute to this project, follow the steps below:
 
@@ -139,7 +138,7 @@ If you want to contribute to this project, follow the steps below:
 -   Push to your branch: `git push origin my-feature`
 </div>
 
-<div style="text-align: center;" class="license-title">
+<div align="center" class="license-title">
 
 ---
 
@@ -151,11 +150,12 @@ This project is under the MIT license. See the [LICENSE](./LICENSE) file for mor
 
 ---
 
-<div style="text-align: center;" class="author-title">
+<div align="center" class="author-title">
 
 ## Author
 
 ![Chamoouske](https://github.com/Chamoouske.png?size=200)
+
 Made with ❤️ by [Chamoouske](https://github.com/Chamoouske)
 
 [![Twitter Badge](https://img.shields.io/badge/-@chamoouske-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chamoouske)](https://twitter.com/chamoouske) [![Linkedin Badge](https://img.shields.io/badge/-Ajax%20Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajaxlima/)](https://www.linkedin.com/in/ajaxlima/) [![Gmail Badge](https://img.shields.io/badge/-ajaxlima94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ajaxlima94@gmail.com)](mailto:ajaxlima94@gmail.com)
